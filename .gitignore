@@ -1,0 +1,13 @@
+# Backup e dumps (nunca commitar)
+Casa do Shake/
+*.sql
+*.sql.gz
+*.tar.gz
+*.zip
+
+# Fontes originais das imagens (regeneráveis via tools/ + backup)
+assets/src/
+
+# Python
+__pycache__/
+*.pyc

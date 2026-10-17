@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://loja.casadoshake.com.br/sitemap.xml
